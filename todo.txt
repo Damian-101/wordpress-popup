@@ -1,0 +1,9 @@
+:::Done:::
+Make Sure Popup Is Stay Closed After Clicking Close | And Only Show The Popup Again In Form Submited
+Popup:Check Any Confilicts With other forms
+Popup : add button name in cpt
+:::Todo:::
+Popup : Add Validation And Styles To Other Forms
+Popup : Fix The Buggy Input Field
+Popup : Mobile Close Btn Dissapearing
+Popup : arrange styles and scripts that belongs to this plugin
