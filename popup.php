@@ -1,6 +1,10 @@
 <?php
 /**
- * Plugin Name: Bek Themes Popup
+ * Plugin Name: BekThemes Popup
+ * Description: Add A Popup Message To Forms
+ * Author: BekThemes
+ * Version: 1.0
+ * Text Domain: bekthemes-popup
  */
 
 /**

@@ -66,7 +66,7 @@ class Bekthemes_Popup{
         /**
          * Render popup html
          */
-        if($_COOKIE[$popup_name] === 'false'){
+        if(isset($_COOKIE[$popup_name]) && $_COOKIE[$popup_name] === 'false'){
             BekThemes_Controller::add_view("popup");
         }
     }

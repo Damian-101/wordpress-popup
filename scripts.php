@@ -6,7 +6,7 @@ class BekThemes_Scripts {
     }
     
     function scripts(){
-        wp_enqueue_style("bekthemes-popup-css",plugin_dir_url(__FILE__) . "view/css/index.css");
+        // wp_enqueue_style("bekthemes-popup-css",plugin_dir_url(__FILE__) . "view/css/index.css");
         wp_enqueue_script("bekthemes-popup-js",plugin_dir_url(__FILE__) . "view/js/popup.js");
     }
     function add_admin_scripts(){
